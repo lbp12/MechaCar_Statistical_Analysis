@@ -32,7 +32,7 @@ In Lot 3 the results show a mean of 1496.14 and a p-value of 0.42. Due to the p-
 ## Study Design: MechaCar vs Competition
 In today's climate fuel efficency is very important to the consumer. To test MechaCar's fuel efficiency for both city and highway against its competition, a null and alternative hypothesis need to be created. <br>
 <br>
-H0 (Null Hypothesis): MechaCar's vehicle fuel efficiency for both city and highway are not different from its competitors.<br>
-Ha (Alternative Hypothesis): MechaCar's vehicle fuel efficiency for both city and highway are different from its competitors.<br>
+H0 (Null Hypothesis): MechaCar's vehicle fuel efficiency is not different from its competitors.<br>
+Ha (Alternative Hypothesis): MechaCar's vehicle fuel efficiency is different from its competitors.<br>
 <br>
-To perform this analysis a few different factors would need to be reviewed, such as miles per gallon, fuel type used in the vehicle, type of vehicle and driving condition (highway or city). Using this data, a t-test could be utilized using the population of vehicles and each carmaker. This will help determine if MechaCar's vehicles' fuel efficiency is statistically different from its competitors as a whole and then statistically different from each competitor.
+In order to perform this analysis a few different factors would need to be reviewed, such as miles per gallon, fuel type used in the vehicle, type of vehicle and driving condition (highway or city). Using this data, a t-test could be utilized using the population of vehicles and each carmaker. This will help determine if MechaCar's vehicles' fuel efficiency is statistically different from its competitors as a whole and then statistically different from each competitor.
