@@ -31,7 +31,7 @@ In Lot 2 the results show a mean of 1500.2 and a p-value of 0.61. Due to the p-v
 In Lot 3 the results show a mean of 1496.14 and a p-value of 0.42. Due to the p-value being lower than the assumed significance level of 0.05, the null hypothesis is rejected and the alternate hypothesis is accepted. There is statistical difference from the population mean of 1,500 pounds per square inch.<br>
 <br>
 ## Study Design: MechaCar vs Competition
-In today's climate fuel efficency is very important to the consumer. To test MechaCar's fuel efficiency for both city and highway against its competition, a null and alternative hypothesis need to be created. <br>
+In today's climate fuel efficency is very important to the consumer. A null and alternative hypothesis needs to be created in order to test MechaCar's fuel efficiency for both city and highway against its competition. <br>
 <br>
 H0 (Null Hypothesis): MechaCar's vehicle fuel efficiency is not different from its competitors.<br>
 Ha (Alternative Hypothesis): MechaCar's vehicle fuel efficiency is different from its competitors.<br>
